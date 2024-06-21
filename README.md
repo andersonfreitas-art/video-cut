@@ -1,2 +1,3 @@
 # video-cut
-Cortador de vídeos usando Python.
+
+Fatiador de vídeos usando Python.
